@@ -1,6 +1,7 @@
 📚 Learn Apache Iceberg with My Udemy Course
 
 If you're new to Apache Iceberg, check out my Udemy course where I provide a practical, hands-on guide covering everything from setup to advanced usage! 
+
 🚀👉 [Enroll Here](https://www.udemy.com/course/apache-iceberg-end-to-end-data-lakehouse-masterclass/?referralCode=B690BF189725F8CB8664)
 
 # Apache Iceberg Environment with Spark, MinIO, Jupyter, and Iceberg REST
