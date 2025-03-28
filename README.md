@@ -6,7 +6,7 @@ This repository provides a **fully containerized** setup for working with **Apac
 
 If you're new to Apache Iceberg, check out my Udemy course where I provide a practical, hands-on guide covering everything from setup to advanced usage! 
 
-🚀👉 [Enroll Here](https://www.udemy.com/course/apache-iceberg-end-to-end-data-lakehouse-masterclass/?referralCode=B690BF189725F8CB8664)
+👉 [Enroll Here](https://www.udemy.com/course/apache-iceberg-end-to-end-data-lakehouse-masterclass/?referralCode=B690BF189725F8CB8664)
 
 ## 🚀 Setup Instructions
 
