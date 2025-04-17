@@ -2,9 +2,11 @@ Steps to Configure
 
 1️⃣ git clone https://github.com/suraj-darekar/docker_apache_iceberg.git
 
+NOTE! - Make sure entrypoint.sh file has LF set not CRLF
+
 2️⃣ Start the services
 
- --cli: docker-compose up -d
+  --docker-compose up -d
 
 3️⃣ Access Services
 
@@ -16,4 +18,4 @@ Steps to Configure
 
 4️⃣ Stopping Services
 
- --cli: docker-compose down
+  --docker-compose down
