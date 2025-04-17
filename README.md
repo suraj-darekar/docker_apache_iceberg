@@ -1,4 +1,4 @@
-###Steps to Configure
+Steps to Configure
 
 1️⃣ git clone https://github.com/suraj-darekar/docker_apache_iceberg.git
 
