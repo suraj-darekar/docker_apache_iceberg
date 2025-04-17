@@ -1,6 +1,6 @@
 FROM tabulario/spark-iceberg
 
-USER root
+USER root 
 
 # Install required Hadoop AWS and Iceberg dependencies
 ADD https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-aws/3.3.2/hadoop-aws-3.3.2.jar /opt/spark/jars/
